@@ -1,6 +1,6 @@
 # Olá, sou Jardel Bordignon 👋
 
-Desenvolvedor FullStack na Compass.uol, atualmente atuando mais focado no mobile (react-native), mantendo estudos relacionados a stack (React | React-Native | Node)
+Desenvolvedor FullStack na Compass.uol, atualmente atuando focado no mobile (react-native) e mantendo estudos relacionados a stack (React | React-Native | Node)
 
 ## Contato
 
