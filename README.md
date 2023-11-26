@@ -1,12 +1,6 @@
 # Olá, sou Jardel Bordignon 👋
 
-Auto como desenvolvedor na CompassUOL, ingressei na empresa no início de 2020 como dev backend Java/Spring,
-posteriormente migrei para o frontend onde atuei em alguns projetos e atualmente a quase dois anos no mobile (react-native).
-
-Cada mudança dentro da empresa foi um novo desafio, foi desconfortante e ao mesmo tempo satisfatório pois foi a forma mais rápida que
-encontrei de adquirir experiência nas três frentes.
-
-Nos últimos anos mantive o foco nos estudos relacionados a stack (React | React-Native | Node)
+Desenvolvedor FullStack na Compass.uol, atualmente atuando mais focado no mobile (react-native), mantendo estudos relacionados a stack (React | React-Native | Node)
 
 ## Contato
 
